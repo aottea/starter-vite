@@ -25,7 +25,7 @@ Ces éléments sont ensuite configurés par le fichier de config local `.vscode/
 
 ## Installation
 
-- Dans le terminal lancer la commande `git clone https://github.com/notjb/mmi-starter.git`
+- Dans le terminal lancer la commande `git clone https://github.com/aottea/starter-vite.git`
 - Renomer le dossier celon vos besoins
 - Ouvrir le dossier dans **vscode**
 - Mettre à jour `name` dans le fichier `package.json`
